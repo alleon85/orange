@@ -1,0 +1,74 @@
+img {
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	margin-left: 50px;
+}
+
+nav {
+	margin: 0;
+	background-color: #fe7e00;
+	padding: 10px 10px;
+}
+
+nav div p {
+	margin-left: 85px;
+	padding: 15px;
+	font-size: 20px
+}
+
+nav div span {
+	font-weight: bold;
+}
+
+.sitenav {
+	display: inline-block;
+	float: right;
+	margin-right: 10%;
+}
+
+.sitenav li {
+	display: inline-block;
+	margin-right: 0;
+	float: right;
+}
+
+.sitenav a {	
+    display: inline-block;
+	padding: 16px 20px;
+}
+
+li.directory a{
+	border-bottom: 3px solid #fff;
+}
+
+header input {
+	display: inline-block;
+	float: right;
+}
+
+header img {
+    height: 375px;
+    width: 375px;
+}
+
+button {
+	width: 200px
+	height: 200px;
+	background-color: #fe7e00;
+	border: none;
+	font-size: 15px;
+	color: #ffffff;
+	background-radius: 4px;
+}
+
+footer {
+    background: #7accc8;
+    height: 100px;
+    padding: 0 20%;
+    position: 0;
+}
+
+
+
+
